@@ -43,4 +43,4 @@ Untuk menghapus catatan:
 Pilih catatan yang ingin dihapus.
 Klik tombol "Hapus".
 
-<img src="gambar/ss Diagram (2).png">
+<img src="MOCKUP NOTE.pdf">
