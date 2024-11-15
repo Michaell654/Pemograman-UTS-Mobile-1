@@ -43,4 +43,4 @@ Untuk menghapus catatan:
 Pilih catatan yang ingin dihapus.
 Klik tombol "Hapus".
 
-<img src="MOCKUP NOTE.pdf">
+![alttext](MOCKUP NOTE.pdf)
