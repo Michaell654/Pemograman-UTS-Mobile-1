@@ -43,4 +43,4 @@ Untuk menghapus catatan:
 Pilih catatan yang ingin dihapus.
 Klik tombol "Hapus".
 
-![alttext]sreenshot1.png)
+![alttext](sreenshot1.png)
